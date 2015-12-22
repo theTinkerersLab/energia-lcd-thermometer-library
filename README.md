@@ -1,4 +1,4 @@
-# Project Name
+# Energia LCD Thermometer Library
 A library for creating a graphical thermometer on 15 X 2 LCD in [Energia]. It is an extension of *LiquidCrystal – Generic LCD library* in [Energia Libraries][el]
 
 # Installation
@@ -17,14 +17,11 @@ Write usage instructions
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-# History
-Write history
-
 # Credits
 Write credits
 
 # License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GPL License - see the [LICENSE.md](LICENSE.md) file for details
 
 [libtut]:<http://energia.nu/Tutorial_Library.html>
 [el]:<http://energia.nu/reference/libraries/>
