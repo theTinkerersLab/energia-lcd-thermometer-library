@@ -10,6 +10,8 @@ Custom library creation is supported in Energia. Please refer this [tutorial][li
 C:\Users\Username\My Documents\Energia\librariesfolder
 ```
 + Restart Energia
+
+### Energia after installation
 ![Alt text](/img/git_lcd_thermometer.jpg?raw=true "After installation")
 
 # Usage
