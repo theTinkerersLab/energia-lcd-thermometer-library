@@ -1,5 +1,5 @@
 # Energia LCD Thermometer Library
-A library for creating a graphical thermometer on 15 X 2 LCD in [Energia]. It is an extension of *LiquidCrystal – Generic LCD library* in [Energia Libraries][el]
+A library for creating a graphical thermometer on 16 X 2 LCD in [Energia]. It is an extension of *LiquidCrystal – Generic LCD library* in [Energia Libraries][el]
 
 # Installation
 Custom library creation is supported in Energia. Please refer this [tutorial][libtut] for further details.
