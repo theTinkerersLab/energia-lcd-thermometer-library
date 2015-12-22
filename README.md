@@ -27,7 +27,7 @@ Tools -> Board -> LaunchPad(Stellaris) w/ lm4f120 (80MHz)
 5. Submit a pull request :D
 
 # Credits
-Write credits
++ *LiquidCrystal – Generic LCD library* - Energia library
 
 # License
 This project is licensed under the GPL License - see the [LICENSE](LICENSE) file for details
