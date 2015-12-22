@@ -4,8 +4,8 @@ A library for creating a graphical thermometer on 15 X 2 LCD in [Energia]. It is
 # Installation
 Custom library creation is supported in Energia. Please refer this [tutorial][libtut] for further details.
 
-##### Steps to add LCD thermometer to *Energia*
-*
+## Steps to add LCD thermometer to Energia
+Copy the libraries folder into C:\Users\Username\My Documents\Energia\librariesfolder
 
 # Usage
 Write usage instructions
