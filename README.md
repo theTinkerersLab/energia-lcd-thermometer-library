@@ -5,10 +5,19 @@ A library for creating a graphical thermometer on 15 X 2 LCD in [Energia]. It is
 Custom library creation is supported in Energia. Please refer this [tutorial][libtut] for further details.
 
 ## Steps to add LCD thermometer to Energia
-Copy the libraries folder into C:\Users\Username\My Documents\Energia\librariesfolder
++ Copy the libraries folder into 
+```
+C:\Users\Username\My Documents\Energia\librariesfolder
+```
++ Restart Energia
 
 # Usage
-Write usage instructions
++ Create a new sketch and copy *WarningThemometer.ino* into it.
++ Change target board to stellaris in Energia
+```
+Tools -> Board -> LaunchPad(Stellaris) w/ lm4f120 (80MHz)
+```
++ Verify, Upload & Enjoy :)
 
 # Contributing
 1. Fork it!
