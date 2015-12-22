@@ -1,0 +1,36 @@
+#########################################
+# Syntax Coloring Map For LCD_Thermometer
+#########################################
+
+#########################################
+# Datatypes (KEYWORD1)
+#########################################
+
+LCD_Thermometer	KEYWORD1
+
+#########################################
+# Methods and Functions (KEYWORD2)
+#########################################
+
+Create 	    KEYWORD2
+ScrollMsg 	    KEYWORD2
+UpdateTemp 	    KEYWORD2
+UpdateStyle 	    KEYWORD2
+UpdateMessage 	    KEYWORD2
+ResetMode 	    KEYWORD2
+
+#######################################
+# Constants (LITERAL2)
+#######################################
+
+STYLE_DEFAULT 	    LITERAL2
+STYLE_INVERTED 	    LITERAL2
+STYLE_NOFRAME 	    LITERAL2
+STYLE_SOLID 	    LITERAL2
+STYLE_SLIM 	    LITERAL2
+
+#######################################
+# Constants (LITERAL3)
+#######################################
+
+MAX_LCD_LENGTH 	    LITERAL3
