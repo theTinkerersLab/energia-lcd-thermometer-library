@@ -21,7 +21,7 @@ Write usage instructions
 Write credits
 
 # License
-This project is licensed under the GPL License - see the [LICENSE.md](LICENSE.txt) file for details
+This project is licensed under the GPL License - see the [LICENSE](LICENSE.txt) file for details
 
 [libtut]:<http://energia.nu/Tutorial_Library.html>
 [el]:<http://energia.nu/reference/libraries/>
