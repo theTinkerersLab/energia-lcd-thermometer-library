@@ -5,6 +5,9 @@ A library for creating a graphical thermometer on 16 X 2 LCD in [Energia]. It is
 + Compatible with MSP430 Launchpad & Stellaris Launchpad
 + Multiple thermometer styles which suits a variety of uses
 
+### Thermometer styles on LCD
+![styles thermometer](/img/styles.jpg?raw=true "Thermometer styles")
+
 # Installation
 Custom library creation is supported in Energia. Please refer this [tutorial][libtut] for further details.
 
